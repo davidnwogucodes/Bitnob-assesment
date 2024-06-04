@@ -56,4 +56,22 @@ DIDs could be very pivotal in handing access control to individuals in africa.
 It could foster trust among entities online, and ease out verification issues when it comes to transactions. The nature of the distributed system astronomically reduces the risk of online fraud and encourages good reputation online. 
 
 Refugees and internally displaced persons will have the luxury of having ownership over their data and only consent to who they want to give it to. The government and international organizations should not only set policies and regulations, but also lead the initiative towards a more decentralized system especially in identity management in African societies.
+
+
+
+
+
+
+Sources:
+
+1.https://www.pluralsight.com/resources/blog/security/generative-ai-cybersecurity-threat-detection-response/decentralized-identities-iam-explained
+
+2.https://medium.com/@adelesmart10/identity-and-reputation-systems-within-the-web3-communities-3281842be8a3
+
+3.https://www.ictd.ac/blog/identity-issues-four-challenges-digital-ids-africa-tax-systems/
+
+4.https://www.researchgate.net/publication/375890979_Securing_Refugee_Identity_A_Literature_Review_on_Blockchain-based_Smart_Contract
+
+5.https://fastercapital.com/topics/the-importance-of-interoperability-in-decentralized-systems.html
+
  
