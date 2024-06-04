@@ -1,5 +1,5 @@
 # Decentralized identities in Africa.
-
+                                                                                 -Ifeanyi Nwogu.
 
 What are decentralized identities?
 
