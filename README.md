@@ -5,7 +5,7 @@ What are decentralized identities?
 
 Authorities, and government parastatals need for control gave birth to centralized identities. Over the years, they have evolved from simple records to more sophisticated systems managed by the government and other corporations. However, centralized systems are usually subject to regulatory and jurisdictional issues. Their central point of gathering user information makes it vulnerable to attacks and there are also a lot of restrictions and limitations. The concept of decentralizing this system gives users sovereignty, better security, and generally just stands as an ideal solution to combating the bottlenecks of centralized systems.
 
-Decentralized identities, also known as self sovereign identities are a way for people to take control of their identity, without the reliance of external bodies to manage it for them1. They are hosted on protocols that are difficult to shut down. Furthermore, decentralized identities only share information with entities when they consent to.
+Decentralized identities, also known as self sovereign identities are a way for people to take control of their identity, without the reliance of external bodies to manage it for them<sup>1</sup> . They are hosted on protocols that are difficult to shut down. Furthermore, decentralized identities only share information with entities when they consent to.
 
 Why are decentralized identities important?
 
@@ -39,5 +39,3 @@ Conclusion.
 
 DIDs could be very pivotal in handing access control to individuals in africa. It could foster trust among entities online, and ease out verification issues when it comes to transactions. The nature of the distributed system astronomically reduces the risk of online fraud and encourages good reputation online. Refugees and internally displaced persons will have the luxury of having ownership over their data and only consent to who they want to give it to. The government and international organizations should not only set policies and regulations, but also lead the initiative towards a more decentralized system especially in identity management in African societies.
  
-
-
