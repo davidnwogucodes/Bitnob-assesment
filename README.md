@@ -17,9 +17,9 @@ The use cases for decentralized identities are innumerable. From giving users ac
 Decentralized identities play a crucial role in the aspect of reinforcing trust and good reputation online. 
 These systems allow participants to access the credibility and reliability of others. One way this is being implemented is through the integration of tokenized reputation. Through blockchain based tokens, participants in a network earn reputation points based on their contributions and behaviors within a given network<sup>2</sup> .
 
-**Relevance in the african context**
+**Relevance in the African context**
 
-There are lingering concerns about the feasibility of inter-institutional collaborations when the government ministries are fragmented. Public institutions in many African countries are still encumbered with complex internal political dynamics. This might result in national ID’s being exploited for political purposes especially in non-democratic systems in africa<sup>3</sup> . 
+There are lingering concerns about the feasibility of inter-institutional collaborations when the government ministries are fragmented. Public institutions in many African countries are still encumbered with complex internal political dynamics. This might result in national ID’s being exploited for political purposes especially in non-democratic systems in Africa<sup>3</sup> . 
 
 The need for user data security and privacy protection can not be overstated especially where trust for the government is very low. Interoperability also becomes difficult because of system designs and technology choices. 
 For example, we look at the Philippines' successful implementation with mosip, an open source solution that efficiently manages registration and identity management. This contrasts with Uganda's vendor locked system, which has hampered scalability and concurrency. 
@@ -49,7 +49,7 @@ It also opens up new business opportunities as new projects could be built on to
 
 Africa is slowly seeing a surge in blockchain projects with core objectives of revamping its digital identity infrastructure.
 For example, Trustlab, a South-african based startup formed an alliance with UN’s international organizations for migration to enforce refugee personal data protection while simultaneously establishing their identity. 
-Other examples like Sovrin and flexID which spotlights the potential of blockchain technology in addressing the digital identity challenges rampant across africa.
+Other examples like Sovrin and flexID which spotlights the potential of blockchain technology in addressing the digital identity challenges rampant across Africa.
 
 
 **Conclusion**.
